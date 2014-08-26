@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>jquery.nanoscroller</id>
+        <version>0.8.1</version>
+        <title>nanoScroller.js plugin for jQuery</title>
+        <authors>Miguel Román</authors>
+        <owners>James Florentino</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>http://jamesflorentino.github.io/nanoScrollerJS/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website. The latest version utilizes native scrolling and works with the iPad, iPhone, and some Android Tablets.</description>
+        <summary>nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.</summary>
+        <copyright>Copyright (c) 2014 James Florentino</copyright>
+        <tags>jQuery scroll plugins</tags>
+        <dependencies>
+            <dependency id="jQuery" version="1.10.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="content\Content\nanoscroller.css" target="content\Content\nanoscroller.css" />
+        <file src="content\Scripts\jquery.nanoscroller.js" target="content\Scripts\jquery.nanoscroller.js" />
+        <file src="content\Scripts\jquery.nanoscroller.min.js" target="content\Scripts\jquery.nanoscroller.min.js" />
+    </files>
+</package>
