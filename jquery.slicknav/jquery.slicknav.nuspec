@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>jquery.slicknav</id>
+        <version>1.0.1</version>
+        <title>Slick Nav Plugin for jQuery</title>
+        <authors>Miguel Román</authors>
+        <owners>Josh Cope</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>http://slicknav.com/</projectUrl>
+        <iconUrl>http://slicknav.com/images/logo.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Features:
+* Multi-level menu support
+* Flexible, simple markup
+* Cross-browser compatibility
+* Keyboard Accessible
+* Degrades gracefully without JavaScript
+* Creates ARIA compliant menu
+
+Browser Support:
+* Chrome
+* Firefox
+* Safari
+* Opera
+* IE7+
+* Android Browser
+* iOS Safari</description>
+        <summary>Responsive Mobile Menu jQuery Plugin</summary>
+        <copyright>(c) 2014 Josh Cope</copyright>
+        <tags>jQuery NavBar SlickNav plugins</tags>
+        <dependencies>
+            <dependency id="jQuery" version="1.10.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="content\Content\slicknav.css" target="content\Content\slicknav.css" />
+        <file src="content\Scripts\jquery.slicknav.js" target="content\Scripts\jquery.slicknav.js" />
+        <file src="content\Scripts\jquery.slicknav.min.js" target="content\Scripts\jquery.slicknav.min.js" />
+    </files>
+</package>
