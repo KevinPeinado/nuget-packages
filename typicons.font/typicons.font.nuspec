@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>typicons.font</id>
+        <version>2.0.6</version>
+        <title>Typicons Font</title>
+        <authors>Miguel Román</authors>
+        <owners>Stephen Hutchings</owners>
+        <licenseUrl>https://github.com/stephenhutchings/typicons.font/blob/master/src/font/LICENCE.md</licenseUrl>
+        <projectUrl>http://typicons.com/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>336 pixel perfect, all-purpose vector icons.</description>
+        <summary>336 pixel perfect, all-purpose vector icons.</summary>
+        <copyright>Created by Stephen Hutchings © 2014</copyright>
+    </metadata>
+    <files>
+        <file src="content\Content\fonts\typicons.eot" target="content\Content\fonts\typicons.eot" />
+        <file src="content\Content\fonts\typicons.svg" target="content\Content\fonts\typicons.svg" />
+        <file src="content\Content\fonts\typicons.ttf" target="content\Content\fonts\typicons.ttf" />
+        <file src="content\Content\fonts\typicons.woff" target="content\Content\fonts\typicons.woff" />
+        <file src="content\Content\typicons\typicons.css" target="content\Content\typicons\typicons.css" />
+        <file src="content\Content\typicons\typicons.min.css" target="content\Content\typicons\typicons.min.css" />
+    </files>
+</package>

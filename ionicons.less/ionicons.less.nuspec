@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ionicons.less</id>
+        <version>1.5.2</version>
+        <title>Ionicons (Less)</title>
+        <authors>Miguel Román</authors>
+        <owners>Ben Sperry</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>http://ionicons.com/</projectUrl>
+        <iconUrl>http://ionicons.com/img/ionicons-logo.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The premium icon font for Ionic Framework. Designed by @benjsperry.
+
+Note: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by Drifty, nor vice versa.
+
+Visit ionicons.com and check out the search feature, which has keywords identifying common icon names and styles. For example, if you search for “arrow” we call up every icon that could possibly be used as an arrow. We’ve also included each icon’s class name for easy copy/pasting when you’re developing!</description>
+        <summary>The premium icon font for Ionic Framework. Designed by @benjsperry.</summary>
+    </metadata>
+    <files>
+        <file src="content\Content\fonts\ionicons.eot" target="content\Content\fonts\ionicons.eot" />
+        <file src="content\Content\fonts\ionicons.svg" target="content\Content\fonts\ionicons.svg" />
+        <file src="content\Content\fonts\ionicons.ttf" target="content\Content\fonts\ionicons.ttf" />
+        <file src="content\Content\fonts\ionicons.woff" target="content\Content\fonts\ionicons.woff" />
+        <file src="content\Content\ionicons\ionicons.less" target="content\Content\ionicons\ionicons.less" />
+        <file src="content\Content\ionicons\_ionicons-animation.less" target="content\Content\ionicons\_ionicons-animation.less" />
+        <file src="content\Content\ionicons\_ionicons-font.less" target="content\Content\ionicons\_ionicons-font.less" />
+        <file src="content\Content\ionicons\_ionicons-icons.less" target="content\Content\ionicons\_ionicons-icons.less" />
+        <file src="content\Content\ionicons\_ionicons-variables.less" target="content\Content\ionicons\_ionicons-variables.less" />
+    </files>
+</package>
