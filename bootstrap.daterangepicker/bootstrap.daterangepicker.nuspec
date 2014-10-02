@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>bootstrap.daterangepicker</id>
-        <version>1.3.12.1</version>
+        <version>1.3.12.2</version>
         <title>Bootstrap Date Range Picker</title>
         <authors>Miguel Román</authors>
         <owners>Dan Grossman</owners>
@@ -15,10 +15,12 @@ If invoked with no options, it will present two calendars to choose a start and 
 
 The component can also be used as a single date picker by setting the singleDatePicker option to true.</description>
         <summary>Date range picker component for Bootstrap http://www.improvely.com</summary>
+        <releaseNotes>css files content fixed.
+Change the Twitter.Bootstrap dependency to Bootstrap.</releaseNotes>
         <copyright>Copyright (c) 2012-2014 Dan Grossman. All rights reserved.</copyright>
         <tags>Bootstrap DatePicker</tags>
         <dependencies>
-            <dependency id="Twitter.Bootstrap" version="3.0.0" />
+            <dependency id="bootstrap" version="3.0.0" />
             <dependency id="Moment.js" version="2.8.1" />
         </dependencies>
     </metadata>
