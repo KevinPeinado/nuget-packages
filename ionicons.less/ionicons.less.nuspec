@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>ionicons.less</id>
-        <version>1.5.2</version>
+        <version>2.0.0</version>
         <title>Ionicons (Less)</title>
         <authors>Miguel Román</authors>
         <owners>Ben Sperry</owners>
@@ -23,7 +23,6 @@ Visit ionicons.com and check out the search feature, which has keywords identify
         <file src="content\Content\fonts\ionicons.ttf" target="content\Content\fonts\ionicons.ttf" />
         <file src="content\Content\fonts\ionicons.woff" target="content\Content\fonts\ionicons.woff" />
         <file src="content\Content\ionicons\ionicons.less" target="content\Content\ionicons\ionicons.less" />
-        <file src="content\Content\ionicons\_ionicons-animation.less" target="content\Content\ionicons\_ionicons-animation.less" />
         <file src="content\Content\ionicons\_ionicons-font.less" target="content\Content\ionicons\_ionicons-font.less" />
         <file src="content\Content\ionicons\_ionicons-icons.less" target="content\Content\ionicons\_ionicons-icons.less" />
         <file src="content\Content\ionicons\_ionicons-variables.less" target="content\Content\ionicons\_ionicons-variables.less" />
